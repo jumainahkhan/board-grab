@@ -4,6 +4,21 @@
 
 Paste a Pinterest board link and download every image as one ZIP. No extension, no sign-up, free.
 
+![Demo: pasting a board link, previewing the pins, and downloading them as a ZIP](docs/demo.gif)
+
+<sub>[Watch the full-quality video (MP4)](docs/demo.mp4)</sub>
+
+## Screenshots
+
+| Paste a link | Preview and download |
+|---|---|
+| ![Home page with the link box](docs/home.png) | ![A board's pins in a preview grid with a Download all button](docs/results.png) |
+
+<p align="center">
+  <img src="docs/mobile-dark.png" alt="Board Grab on a phone in dark mode" width="300"><br>
+  <sub>Works on phones, in light and dark mode</sub>
+</p>
+
 ## How to use it
 
 1. On Pinterest, open a board and tap **Share → Copy link**.
